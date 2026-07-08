@@ -1,0 +1,11 @@
+{
+  "version": "1.1.9",
+  "notes": "Polish layout, Beat Sync small tool, disabled Highlights, AI Leveler, and Profanity Muter, and added Beta/Soon tags.",
+  "pub_date": "2026-07-08T10:23:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzUwNElvdE9ST2dWdmY4TUhCdUsxdGpNRVI4Sm1hODNFeGV4YjVGSTArVEtYUlBFUVJ3d0JIcVMyM1VONm1aQzZIRit3Wi9GTUdCWXpkK05aanVlcDlvRFlLUWhRaXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTA2MTg5CWZpbGU6Q3V0dGlmeS1TZXR1cC12MS4xLjkuZXhlCnBuVXNWZXBGWlNzMTF6MFc5a05IVjZyRC83NG1OTlpNOUI1Rm9YOUx6M044OGt4N0I1NDlSUHcxLzhvTmhGU0JtMU55Zk0venRSTytUVW5mWXVTR0RBPT0K",
+      "url": "https://github.com/ahmednazief/cuttify/releases/download/v1.1.9/Cuttify-Setup-v1.1.9.exe"
+    }
+  }
+}
